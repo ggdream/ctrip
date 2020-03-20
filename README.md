@@ -19,6 +19,7 @@
 	xpinyin==0.5.6
 	requests==2.22.0
 	useragentxxc==1.1.0
+        python-dateutil==2.8.1
 
 ##### 启动工程
 
